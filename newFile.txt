@@ -1,0 +1,3 @@
+Hi! I am the owner of this repository. 
+I just tried creating a repository for demo/learning purpose.
+I wrote this using vim command.
